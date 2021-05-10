@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Karasuno Men's Volleyball Club",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -71,7 +71,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
